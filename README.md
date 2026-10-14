@@ -9,4 +9,4 @@ STM32 Lib LCD Nokia 5110 PCD8544 84x48 ( font EN RUS UA )
 
 Пример в файле example.txt
 
-По всем вопросам пишите: golinskiy.konstantin@gmail.com
+По всем вопросам пишите: kostiantyn.holinskyi@gmail.com
